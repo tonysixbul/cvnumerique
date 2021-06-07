@@ -1,0 +1,28 @@
+section{
+
+background-color: black;
+color: white;
+}
+img{
+background-color: white;
+}                                     /*CSS FORMULAIRE DE CONTACT */
+body{
+	width:100%;
+	height:100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: black;
+}
+
+
+
+#contact{
+	color:#f4f4f4;
+	padding-bottom:80px;
+}
+
+textarea.form-control{
+    height:100px;
+}
+
+
+                               /*FIN FORMULAIRE DE CONTACT */
